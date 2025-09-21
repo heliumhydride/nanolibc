@@ -14,7 +14,7 @@
 
 [ "$1" = "clean" ] && {
   rm -fv src/*.o
-  rm -fv libnlibc.a
+  rm -fv libc.a
   rm -fv tests/bin/*
   exit 0
 }
