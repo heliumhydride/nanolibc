@@ -1,0 +1,6 @@
+src/*.o
+libnlibc.a
+tags
+
+tests/bin/*
+!tests/bin/.gitkeep

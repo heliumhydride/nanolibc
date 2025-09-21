@@ -1,0 +1,5 @@
+nanolibc
+
+proof of concept linux x86_64 libc.
+do not use for production
+  (you probably can't anyways given how little funcs are implemented)
